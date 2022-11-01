@@ -12,7 +12,7 @@
 #### 人脸认证FaceID SDK
 * 第三方名称：北京旷视科技有限公司
 * 功能：用于账号实名认证、备案等功能的活体检测
-* 收集个人信息类型：摄像头拍摄人脸视频
+* 收集个人信息类型：人脸信息，含人脸照片、活体检测短视频
 * 隐私政策链接：[https://assets.faceid.com/faceidopen/privacy-policy.html?ts=1643080025](https://assets.faceid.com/faceidopen/privacy-policy.html?ts=1643080025)
 
 
