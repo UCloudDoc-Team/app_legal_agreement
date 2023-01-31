@@ -191,6 +191,6 @@
 
 <br>**生效日期：2023年1月31日**
 
-<br>**历史版本：[UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20220908)（2022年6月24日版）**
+<br>**历史版本：[UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20220908)（2022年9月8日版）**
 
 
