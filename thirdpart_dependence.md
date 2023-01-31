@@ -1,4 +1,4 @@
-# UCloud云服务APP授权合作伙伴
+# UCloud（云服务）APP授权合作伙伴
 
 ### SDK
 #### 小米推送（MiPush）SDK
