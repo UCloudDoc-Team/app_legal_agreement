@@ -39,7 +39,7 @@
 <br>
 
 #### 华为HMS Core SDK
-* 第三方名称：广东欢太科技有限公司
+* 第三方名称：华为软件技术有限公司
 * 功能：用于向华为手机用户推送消息
 * 个人数据处理说明：[https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/personal-data-0000001050166427](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/personal-data-0000001050166427)
 * 隐私政策链接：[https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050042177](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050042177)
