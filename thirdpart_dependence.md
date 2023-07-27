@@ -2,6 +2,37 @@
 
 ### SDK
 
+#### 支付宝支付 SDK
+* 第三方名称：支付宝（中国）网络技术有限公司
+* 功能：帮助用户使用支付宝提供的支付功能
+* 处理方式：采取去标识、加密等方式进行传输和处理
+* 收集个人信息类型：
+    * 设备状态权限
+        * 1.为了保障您的账户和资金安全以及支付服务的安全稳定运行。
+        * 2.为履行反洗钱、反恐怖融资、反电信网络诈骗等法定义务。
+    * 网络连接权限
+        * 1.允许程序使用网络连接，进行数据传输。
+        * 2.允许程序获取当前网络信息。
+* 隐私说明：[https://opendocs.alipay.com/open/54/01g6qm?pathHash=01459d85](https://opendocs.alipay.com/open/54/01g6qm?pathHash=01459d85)
+* 隐私政策链接：[https://render.alipay.com/p/yuyan/180020010001196791/preview.html?agreementId=AG00000132](https://render.alipay.com/p/yuyan/180020010001196791/preview.html?agreementId=AG00000132)
+
+<br>
+
+#### 微信支付 SDK
+* 第三方名称：财付通支付科技有限公司
+* 功能：帮助用户使用微信支付服务及防范支付欺诈风险
+* 处理方式：采取去标识、加密等方式进行传输和处理
+* 收集个人信息类型：
+    * 支付订单标识
+    * 用户标识信息
+    * IP地址
+    * 订单金额
+    * 订单时间
+    * 商品信息（包括商品名称、商品描述等）
+* 隐私政策链接：[https://www.tenpay.com/v3/helpcenter/low/privacy.shtml](https://www.tenpay.com/v3/helpcenter/low/privacy.shtml)
+
+<br>
+
 #### 极验 SDK
 * 第三方名称：武汉极意网络科技有限公司
 * 功能：在敏感行为操作前进行行为验证
@@ -88,4 +119,4 @@
 
 
 <br><br>
-**更新日期：2023年3月17日**
+**更新日期：2023年7月27日**
