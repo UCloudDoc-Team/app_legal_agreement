@@ -203,5 +203,5 @@
 * [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20230201)（2023年2月1日版）
 * [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20220908)（2022年9月8日版）
 * [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20220624)（2022年6月24日版）
-* [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20220508)（2022年5月6日版）
+* [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20220506)（2022年5月6日版）
 
