@@ -76,7 +76,7 @@
     * 推送日志信息：以便开发者查询使用推送服务记录，了解推送信息送达的情况，调整推送策略。
     * 数据处理方式：通过去标识化、加密传输及其他安全方式
     
-* 隐私政策引导：[https://docs.jiguang.cn/jpush/client/Android/android_jghgzy](https://docs.jiguang.cn/jpush/client/Android/android_jghgzy)
+* 隐私政策引导：[https://docs.jiguang.cn/jpush/client/jghgzy_a_i_h#sdk隐私政策披露要求与示例](https://docs.jiguang.cn/jpush/client/jghgzy_a_i_h#sdk%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96%E6%8A%AB%E9%9C%B2%E8%A6%81%E6%B1%82%E4%B8%8E%E7%A4%BA%E4%BE%8B)
 * 隐私政策链接：[https://www.jiguang.cn/license/privacy](https://www.jiguang.cn/license/privacy)
 
 
