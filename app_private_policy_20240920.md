@@ -211,12 +211,11 @@
 <br>邮编：200092
 <br>我们将尽快审核所涉问题，并在验证您的用户身份后的三十天内予以回复。
 
-<br>11.2 如果您需要向UCloud举报侵权行为、违法或不良信息、数据安全问题等，请您通过访问UCloud官方网站，进入网站首页的“[UCloud举报平台](https://f.howxm.com/xs/u/MZK1ZEYUC4ZC)”进行操作。UCloud设立了专职部门处理相关投诉举报，并承诺在收到举报后15日内给予答复。在进行投诉举报时，请确保提供详细的信息和证据，以便UCloud能够准确地处理您的举报。同时，请耐心等待我们的答复，并保持通讯畅通，以便于在必要时进行进一步沟通。 如您有任何疑问，可随时联系技术支持4000188113-6反馈。
+<br>11.2 如果您需要向UCloud举报侵权行为、违法或不良信息、数据安全问题等，请您通过访问UCloud官方网站，进入网站首页的“[UCloud举报平台](https://f.howxm.com/xs/u/MZK1ZEYUC4ZC)”进行操作。UCloud设立了专职部门处理相关投诉举报，并承诺在收到举报后15个工作日内给予答复。在进行投诉举报时，请确保提供详细的信息和证据，以便UCloud能够准确地处理您的举报。同时，请耐心等待我们的答复，并保持通讯畅通，以便于在必要时进行进一步沟通。 如您有任何疑问，可随时联系技术支持4000188113-6反馈。
 
-<br>**生效日期：2025年11月27日**
+<br>**生效日期：2024年9月20日**
 
 <br>**历史版本：**
-* [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20240920)（2024年9月20日版）
 * [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20230803)（2023年8月3日版）
 * [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20230201)（2023年2月1日版）
 * [UCloud云服务法律声明及隐私政策](https://docs.ucloud.cn/app_legal_agreement/app_private_policy_20220908)（2022年9月8日版）
