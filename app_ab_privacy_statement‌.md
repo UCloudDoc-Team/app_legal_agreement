@@ -29,4 +29,7 @@
 
 ### 三、您如何管理自己的信息
 您在使用我们服务的过程中，可以通过查询、复制、更正、补充、删除、撤回授权、注销账号等方式来管理您的个人信息。
-<br>具体请查看《UCloud APP法律声明及隐私政策》
+<br>具体请查看[《UCloud APP法律声明及隐私政策》](https://docs.ucloud.cn/app_legal_agreement/app_private_policy)
+
+---
+更新时间：2025年12月
